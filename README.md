@@ -1,12 +1,62 @@
 # genesisbussey.github.oi
-<div id="menu">
+<html>
+<head>
+<title> ABOUT ME</title>
+<style>
+body {
+background-color: beige;
+
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 120px;
+    font-weight: bold;
+    color: #FFFFFF;
+    background-color: #98bf21;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+    background-color: #7A991A;
+}
+</style>
+</head>
+<body>
+
 <ul>
-<li><a href="https://drive.google.com/drive/u/0/my-drive">My Google Drive</a></li>
-<ul><li><a href="aboutus.html">My Gmail</a></li>
-<li><a href="services.html">My Website</a></li>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
 </ul>
-</div>
+
+
+</style>
+</head>
+<body>
 
 
 
 
+
+
+
+
+
+</style>
+</head>
+</html>
